@@ -2,6 +2,23 @@
 
 `list`, `search`, and `check` your prelim committee.
 
+# Usage
+
+List Field Committees:
+```
+./approveme.py list
+```
+
+Search for faculty:
+```
+./approveme.py search --name [Name ...]
+```
+
+Validate your Chair and Dept. Rep. committee
+```
+./approveme.py chach --chair CHAIR --dept-rep DEPT_REP
+```
+
 ## Contributing
 Please add your prelim comittee to the test cases!
 

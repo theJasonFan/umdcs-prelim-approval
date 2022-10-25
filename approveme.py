@@ -1,3 +1,4 @@
+#!python3
 import json
 import argparse
 import difflib
